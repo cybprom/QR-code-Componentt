@@ -47,5 +47,9 @@ footer a {
     color: hsl(228, 45%, 44%);
   }
 
+footer {
+    text-align: center;
+}
+
    /* end for now */
   
